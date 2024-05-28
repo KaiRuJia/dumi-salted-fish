@@ -4,7 +4,7 @@ order: 1
 ---
 
 ```jsx
-import { uniqKey } from 'salted-fish'
+import { uniqKey } from 'y-salted-fish'
 
 export default () => <div>
   <p>uniqKey_1: { uniqKey() }</p>

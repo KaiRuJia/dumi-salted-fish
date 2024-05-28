@@ -7,7 +7,7 @@ top: content
 ---
 
 ```jsx
-import { Button } from 'salted-fish'
+import { Button } from 'y-salted-fish'
 
 export default () => <Button title="Hello dumi!" />
 ```
